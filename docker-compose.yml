@@ -550,5 +550,6 @@ volumes:
   devilbox-mongo-3.2:
   devilbox-mongo-3.4:
   devilbox-mongo-3.6:
+  devilbox-mongo-3.7:
   devilbox-mongo-4.0:
   devilbox-mongo-latest:
